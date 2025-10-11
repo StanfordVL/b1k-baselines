@@ -1,6 +1,6 @@
 ## Other IL Policies
 
-This toturial provides instruction to train various classic imitation learning policies on the 2025 BEHAVIOR-1K Challenge dataset. 
+This tutorial provides instruction to train various classic imitation learning policies on the 2025 BEHAVIOR-1K Challenge dataset. 
 
 ### Repo Clone
 

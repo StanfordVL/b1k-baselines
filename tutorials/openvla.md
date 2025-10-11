@@ -1,5 +1,5 @@
 ## OpenVLA-OFT
-This toturial provides a simplest version instruction to finetune OpenVLA-OFT on the 2025 BEHAVIOR-1K Challenge dataset. 
+This tutorial provides a simplest version instruction to finetune OpenVLA-OFT on the 2025 BEHAVIOR-1K Challenge dataset. 
 
 ### Repo Clone
 
