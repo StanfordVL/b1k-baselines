@@ -25,9 +25,7 @@ Alternatively, feel free to have it installed in a new conda env, although you n
 
 ### Model Training
 
-**
 We provide a trained WB-VIMA checkpoint [here](https://drive.google.com/file/d/1YTB0XCh32EHyq2svcsYN6HNidk7-8hkJ/view?usp=sharing) for the turning_on_radio task. If you would like to run eval only feel free to skip to the last section. 
-**
 
 Note: in order to run WB-VIMA training, you will need to have point cloud generated locally, we provide a sample point cloud generated for `turning_on_radio` [here](), for more information, checkout the `generate_custon_data.ipynb` within the b1k-baselines repo. 
 
