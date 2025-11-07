@@ -56,7 +56,7 @@ There are a few files in OpenVLA-OFT+ needs change to adapt our new robot:
     - Add an entry in StateEncoding and ActionEncoding; and Add a data name mapping in `configs.py` ([here](https://github.com/evansh666/openvla-oft/tree/main/prismatic/vla/datasets/rlds/oxe/configs.py#L711))
     - Add data transform in `transforms.py` ([here](https://github.com/evansh666/openvla-oft/tree/main/prismatic/vla/datasets/rlds/oxe/transforms.py#L937)) 
     - Add data mixture proportion in `mixtures.py` ([here](https://github.com/evansh666/openvla-oft/tree/main/prismatic/vla/datasets/rlds/oxe/mixtures.py#L231)).
-    - Set constants of BEHAVIOR, e.g., desired action chunk size ([here]([`https://github.com/evansh666/openvla-oft/tree/main/prismatic/vla/constants.py`]))
+    - Set constants of BEHAVIOR, e.g., desired action chunk size ([here](`https://github.com/evansh666/openvla-oft/tree/main/prismatic/vla/constants.py`))
     - Add normalize and absolute action mask in `materialize.py` ([here](https://github.com/evansh666/openvla-oft/tree/main/prismatic/vla/datasets/rlds/oxe/materialize.py)).
     - Add behavior in three camera views selection ([here](https://github.com/evansh666/openvla-oft/tree/main/prismatic/vla/datasets/datasets.py#L116))
 
