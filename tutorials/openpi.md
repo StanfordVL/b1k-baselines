@@ -25,7 +25,7 @@ source .venv/bin/activate
 # Install behavior for server deploy 
 cd $PATH_TO_BEHAVIOR_1K
 uv pip install -e bddl
-uv pip install -e OmniGibson[eval]
+uv pip install -e "./OmniGibson[eval]"
 ```
 
 ### Finetune OpenPi
